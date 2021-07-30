@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307486516672",
+    "project_id": "kissanstore-6e077",
+    "storage_bucket": "kissanstore-6e077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307486516672:android:40612ecf32264503e0d425",
+        "android_client_info": {
+          "package_name": "com.kissan.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307486516672-volqskrj0bbjr4gaqjtheph42j44rb8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mRN2-N77jsJFBjIOG8eo0sWmsCS6ehc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307486516672-volqskrj0bbjr4gaqjtheph42j44rb8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
